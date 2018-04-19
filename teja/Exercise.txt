@@ -1,0 +1,3 @@
+Git Push 
+git pull
+git init
